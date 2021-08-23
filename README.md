@@ -1,4 +1,4 @@
-# PEPIdentification
+# PEP Identification
 The provided solution identifies PEPs based upon two input strings (First name & last name)
 
 ## Libraries
