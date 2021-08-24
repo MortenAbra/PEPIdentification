@@ -17,5 +17,5 @@ Returns true if input matches adjacent cells in the sheet, otherwise it returns 
 By entering a empty string input a "Illegal argument exception" is thrown. Proper exception handling needed to mitigate empty inputs.
 
 ### Future additions
-Format the PEP list by removing schema defining rows such as row 1, 3, 24, 44, 45 etc.
+Format the PEP list by removing schema misdefining rows such as row 1, 3, 24, 44, 45 etc.
 - This enables conversion to easier file types such as JSON and CSV for easier data extraction.
